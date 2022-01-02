@@ -1,0 +1,184 @@
+2021-07-23 14:52:16,138 INFO :: This message just shows the basic information
+2021-07-23 14:52:16,139 WARNING :: This message is about something you should pay attention to
+2021-07-23 14:52:16,139 ERROR :: This message helps us to debug an aerror that occurred in the program
+2021-07-23 14:54:26,171 INFO :: This message just shows the basic information
+2021-07-23 14:54:26,171 WARNING :: This message is about something you should pay attention to
+2021-07-23 14:54:26,171 ERROR :: This message helps us to debug an aerror that occurred in the program
+2021-07-23 14:54:26,171 INFO :: Hello from the Binance connect
+2021-07-23 14:56:50,634 INFO :: This is logged in all cases
+2021-07-23 16:15:11,000 INFO :: Binance Client successfully initialized
+2021-07-23 16:16:33,085 INFO :: Binance Client successfully initialized
+2021-07-23 16:16:57,929 INFO :: Binance Client successfully initialized
+2021-07-23 16:18:18,338 INFO :: Binance Client successfully initialized
+2021-07-23 16:18:55,625 INFO :: Binance Client successfully initialized
+2021-07-23 16:19:24,606 INFO :: Binance Client successfully initialized
+2021-07-23 16:19:55,657 INFO :: Binance Client successfully initialized
+2021-07-23 16:20:36,013 INFO :: Binance Client successfully initialized
+2021-07-23 16:22:24,460 INFO :: Binance Client successfully initialized
+2021-07-23 23:43:54,831 INFO :: Binance Client successfully initialized
+2021-07-23 23:45:32,152 INFO :: Binance Client successfully initialized
+2021-07-23 23:45:32,702 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2021-07-23 23:49:13,047 INFO :: Binance Client successfully initialized
+2021-07-23 23:49:13,580 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2021-07-23 23:50:36,252 INFO :: Binance Client successfully initialized
+2021-07-23 23:50:36,773 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2021-07-23 23:53:01,178 INFO :: Binance Client successfully initialized
+2021-07-24 00:06:57,775 INFO :: Binance Client successfully initialized
+2021-07-24 00:08:40,170 INFO :: Binance Client successfully initialized
+2021-07-24 00:09:14,479 INFO :: Binance Client successfully initialized
+2021-07-24 00:09:23,495 INFO :: Binance Client successfully initialized
+2021-07-24 00:10:02,377 INFO :: Binance Client successfully initialized
+2021-07-24 00:10:46,376 INFO :: Binance Client successfully initialized
+2021-07-24 14:49:11,752 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2021-07-24 14:49:11,754 WARNING :: Binance Websocket connection closed
+2021-07-24 14:49:11,755 INFO :: Binance Client successfully initialized
+2021-07-24 14:49:12,170 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2021-07-24 14:49:12,171 WARNING :: Binance Websocket connection closed
+2021-07-24 14:50:27,135 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2021-07-24 14:50:27,136 WARNING :: Binance Websocket connection closed
+2021-07-24 14:50:27,136 INFO :: Binance Client successfully initialized
+2021-07-24 14:50:27,504 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2021-07-24 14:50:27,504 WARNING :: Binance Websocket connection closed
+2021-07-24 14:50:59,857 INFO :: Binance connection opened
+2021-07-24 14:51:46,929 ERROR :: Binance connection error: 
+2021-07-24 14:51:47,070 WARNING :: Binance Websocket connection closed
+2021-07-24 14:51:47,074 INFO :: Binance Client successfully initialized
+2021-07-24 14:51:47,734 INFO :: Binance connection opened
+2021-07-24 14:52:29,024 INFO :: Binance connection opened
+2021-07-24 14:52:39,391 ERROR :: Binance connection error: 
+2021-07-24 14:52:39,529 WARNING :: Binance Websocket connection closed
+2021-07-24 14:52:39,533 INFO :: Binance Client successfully initialized
+2021-07-24 14:52:40,182 INFO :: Binance connection opened
+2021-07-24 14:55:01,865 INFO :: Binance connection opened
+2021-07-24 14:55:11,223 ERROR :: Binance connection error: 
+2021-07-24 14:55:11,358 WARNING :: Binance Websocket connection closed
+2021-07-24 14:55:11,359 INFO :: Binance Client successfully initialized
+2021-07-24 14:55:11,990 INFO :: Binance connection opened
+2021-07-24 14:57:04,547 INFO :: Binance connection opened
+2021-07-24 14:57:11,351 ERROR :: Binance connection error: 
+2021-07-24 14:57:12,305 WARNING :: Binance Websocket connection closed
+2021-07-24 14:57:12,308 INFO :: Binance Client successfully initialized
+2021-07-24 14:57:12,950 INFO :: Binance connection opened
+2021-07-24 15:09:37,304 INFO :: Binance connection opened
+2021-07-24 15:09:37,438 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:38,603 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:38,604 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:40,240 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:40,240 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:42,288 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:44,337 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:44,337 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:46,369 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:46,382 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:48,426 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:48,451 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:48,477 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:49,564 ERROR :: Binance connection error: 
+2021-07-24 15:09:49,704 WARNING :: Binance Websocket connection closed
+2021-07-24 15:09:49,709 INFO :: Binance Client successfully initialized
+2021-07-24 15:09:50,368 INFO :: Binance connection opened
+2021-07-24 15:09:50,500 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:50,519 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:50,530 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:52,630 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:52,630 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:54,269 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:09:54,269 ERROR :: error from callback <bound method BinanceClient.on_message of <connectors.binance.BinanceClient object at 0x7f92a454e670>>: name 'data' is not defined
+2021-07-24 15:11:30,582 INFO :: Binance connection opened
+2021-07-24 15:11:47,631 ERROR :: Binance connection error: 
+2021-07-24 15:11:47,773 WARNING :: Binance Websocket connection closed
+2021-07-24 15:11:47,777 INFO :: Binance Client successfully initialized
+2021-07-24 15:11:48,442 INFO :: Binance connection opened
+2021-07-24 15:16:52,779 INFO :: Binance connection opened
+2021-07-24 15:16:58,284 ERROR :: Binance connection error: 
+2021-07-24 15:16:58,414 WARNING :: Binance Websocket connection closed
+2021-07-24 15:16:58,418 INFO :: Binance Client successfully initialized
+2021-07-24 15:16:59,075 INFO :: Binance connection opened
+2021-07-24 15:23:19,061 INFO :: Binance Client successfully initialized
+2021-07-24 15:23:19,753 INFO :: Binance connection opened
+2021-07-24 23:04:52,927 INFO :: Binance Client successfully initialized
+2021-07-24 23:04:53,580 INFO :: Binance connection opened
+2021-07-24 23:09:39,544 INFO :: Binance Client successfully initialized
+2021-07-24 23:09:40,179 INFO :: Binance connection opened
+2021-07-24 23:15:51,505 INFO :: Binance Client successfully initialized
+2021-07-24 23:15:52,134 INFO :: Binance connection opened
+2021-07-24 23:30:08,763 INFO :: Binance Client successfully initialized
+2021-07-24 23:30:09,419 INFO :: Binance connection opened
+2021-07-24 23:30:57,415 INFO :: Binance Client successfully initialized
+2021-07-24 23:30:58,137 INFO :: Binance connection opened
+2021-07-24 23:31:34,688 INFO :: Binance Client successfully initialized
+2021-07-24 23:31:35,320 INFO :: Binance connection opened
+2021-07-24 23:42:04,223 INFO :: Binance Client successfully initialized
+2021-07-24 23:42:04,886 INFO :: Binance connection opened
+2021-07-24 23:44:53,966 INFO :: Binance Client successfully initialized
+2021-07-24 23:44:54,621 INFO :: Binance connection opened
+2021-07-25 00:02:43,191 INFO :: Binance Client successfully initialized
+2021-07-25 00:02:43,823 INFO :: Binance connection opened
+2021-07-25 00:03:39,399 INFO :: Binance Client successfully initialized
+2021-07-25 00:03:40,023 INFO :: Binance connection opened
+2021-07-25 00:05:34,802 INFO :: Binance Client successfully initialized
+2021-07-25 00:05:35,453 INFO :: Binance connection opened
+2021-07-28 12:49:58,390 INFO :: Binance Client successfully initialized
+2021-07-28 12:49:59,073 INFO :: Binance connection opened
+2021-07-28 12:52:37,818 INFO :: Binance Client successfully initialized
+2021-07-28 12:52:38,480 INFO :: Binance connection opened
+2021-07-28 12:56:29,234 INFO :: Binance Client successfully initialized
+2021-07-28 12:56:30,002 INFO :: Binance connection opened
+2021-07-28 13:12:49,957 INFO :: Binance Client successfully initialized
+2021-07-28 13:12:50,622 INFO :: Binance connection opened
+2021-07-28 13:15:35,535 INFO :: Binance Client successfully initialized
+2021-07-28 13:15:37,122 INFO :: Binance connection opened
+2021-07-28 13:30:16,990 INFO :: Binance Client successfully initialized
+2021-07-28 13:30:17,669 INFO :: Binance connection opened
+2021-07-28 13:36:56,349 INFO :: Binance Client successfully initialized
+2021-07-28 13:36:57,008 INFO :: Binance connection opened
+2021-07-28 13:40:52,858 INFO :: Binance Client successfully initialized
+2021-07-28 13:40:53,527 INFO :: Binance connection opened
+2021-07-28 13:52:13,443 INFO :: Binance Client successfully initialized
+2021-07-28 13:52:14,096 INFO :: Binance connection opened
+2021-07-28 13:53:47,741 INFO :: Binance Client successfully initialized
+2021-07-28 13:53:48,374 INFO :: Binance connection opened
+2021-07-28 14:17:37,869 INFO :: Binance Client successfully initialized
+2021-07-28 14:17:38,647 INFO :: Binance connection opened
+2021-07-28 20:00:09,146 INFO :: Binance Client successfully initialized
+2021-07-28 20:00:11,696 INFO :: Binance connection opened
+2021-07-28 21:02:58,799 INFO :: Binance Client successfully initialized
+2021-07-28 21:02:59,490 INFO :: Binance connection opened
+2021-07-28 21:26:45,236 INFO :: Binance Client successfully initialized
+2021-07-28 21:26:46,127 INFO :: Binance connection opened
+2021-07-28 21:30:41,468 INFO :: Binance Client successfully initialized
+2021-07-28 21:30:42,111 INFO :: Binance connection opened
+2021-07-28 21:43:23,144 INFO :: Binance Client successfully initialized
+2021-07-28 21:43:24,009 INFO :: Binance connection opened
+2021-07-28 22:48:53,925 INFO :: Binance Client successfully initialized
+2021-07-28 22:48:54,821 INFO :: Binance connection opened
+2021-07-28 22:57:42,289 INFO :: Binance Client successfully initialized
+2021-07-28 22:57:43,188 INFO :: Binance connection opened
+2021-07-28 23:11:49,382 INFO :: Binance Client successfully initialized
+2021-07-28 23:11:50,117 INFO :: Binance connection opened
+2021-07-28 23:16:50,408 INFO :: Binance Client successfully initialized
+2021-07-28 23:16:51,287 INFO :: Binance connection opened
+2021-07-28 23:45:28,265 INFO :: Binance Client successfully initialized
+2021-07-28 23:45:29,130 INFO :: Binance connection opened
+2021-07-29 00:54:06,188 INFO :: Binance Client successfully initialized
+2021-07-29 00:54:07,063 INFO :: Binance connection opened
+2021-07-29 00:58:42,561 INFO :: Binance Client successfully initialized
+2021-07-29 00:58:43,223 INFO :: Binance connection opened
+2021-07-29 01:05:36,435 INFO :: Binance Client successfully initialized
+2021-07-29 01:05:37,982 INFO :: Binance connection opened
+2021-07-29 01:09:30,519 INFO :: Binance Client successfully initialized
+2021-07-29 01:09:31,180 INFO :: Binance connection opened
+2021-07-29 01:11:15,292 INFO :: Binance Client successfully initialized
+2021-07-29 01:11:16,135 INFO :: Binance connection opened
+2021-07-29 01:15:20,912 INFO :: Binance Client successfully initialized
+2021-07-29 01:15:21,571 INFO :: Binance connection opened
+2021-07-29 01:28:41,001 INFO :: Binance Client successfully initialized
+2021-07-29 01:28:41,688 INFO :: Binance connection opened
+2021-07-29 01:42:05,343 INFO :: Binance Client successfully initialized
+2021-07-29 01:42:06,123 INFO :: Binance connection opened
+2021-07-29 01:44:55,840 INFO :: Binance Client successfully initialized
+2021-07-29 01:44:56,496 INFO :: Binance connection opened
+2021-07-29 13:51:57,324 INFO :: Binance Client successfully initialized
+2021-07-29 13:51:58,313 INFO :: Binance connection opened
+2022-01-01 16:50:58,585 INFO :: Binance Client successfully initialized
+2022-01-01 16:50:59,318 INFO :: Binance connection opened
